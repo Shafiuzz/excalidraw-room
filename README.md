@@ -1,27 +1,5 @@
-# Example of excalidraw collaboration server
+![изображение](https://github.com/eeehhh1234/eeehhh12341/assets/155825869/d80a130b-4307-45a7-a03e-1630e899ae8d)
 
-Collaboration server for Excalidraw
+![изображение](https://github.com/eeehhh1234/eeehhh12341/assets/155825869/3fb96b04-00a2-4b53-a7db-2530aae1b19f)
 
-If you need to use cluster mode with pm2. Checkout: https://socket.io/docs/v4/pm2/
-
-If you are not familiar with pm2: https://pm2.keymetrics.io/docs/usage/quick-start/
-
-# Development
-
-- install
-
-  ```sh
-  yarn
-  ```
-
-- run development server
-
-  ```sh
-  yarn start:dev
-  ```
-
-# Start with pm2
-
-```
-pm2 start pm2.production.json
-```
+ ![изображение](https://github.com/eeehhh1234/eeehhh12341/assets/155825869/92ed4494-ecbe-46d9-8152-67172c7b7265)
